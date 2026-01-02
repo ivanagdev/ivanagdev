@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Iván</h1>
 <h3 align="center">I am a Developer from Spain.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanagdev&label=Profile%20views&color=0e75b6&style=flat" alt="ivanagdev" /> </p>
 
 - 🔭 I’m currently working on a Ticket Bot for Discord.
 
